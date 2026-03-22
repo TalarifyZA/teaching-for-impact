@@ -8,6 +8,10 @@
 
 Check that everything connects.
 
+## You will use
+- Your outcomes from Template 5
+- Your activity from Template 7
+
 ## Alignment mapping
 
 | Outcome | Activity | Assessment | Aligned? (Y/N) | Notes |
@@ -26,12 +30,37 @@ Fill in based on what you currently do.
 - Where are mismatches?
 - What is taught but not assessed?
 - What is assessed but not taught?
+- Use 1 outcome from Template 5
 
 ---
 
 ## Improve
 
 Update the table to fix alignment issues.
+
+---
+
+## Translation to your learners
+- Does alignment hold in your learners’ context?
+
+---
+
+## Context check
+- What breaks alignment in practice?
+
+---
+
+## Iteration
+- v0 = draft
+- v1 = revised
+- v2 = final
+- Update previous templates if needed
+
+---
+
+## Reuse in later sections
+- Template 8 (Evaluation Plan)
+- Template 9 (Training Snapshot)
 
 ---
 

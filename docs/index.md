@@ -1,5 +1,3 @@
-
-
 # Teaching for Impact: Designing Effective & Open Training
 
 ## Training Manual & Workbook
@@ -14,7 +12,6 @@ Sheena O'Connell
 #### Talarify
 Anelda van der Walt 
 
-
 [Talarify](https://talarify.co.za) is a South African consulting and training organisation specialising in capacity and community development in Open Science and Digital and Computational Research.
 
 ---
@@ -22,6 +19,14 @@ Anelda van der Walt
 ### About this Workbook
 
 This workbook was developed as a reference for a course offered to grantees of the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) Seed Funding instrument: [Data for Change Training Fund](https://feme.ac.uk/wp-content/uploads/2026/01/Final-Data-for-Change-Training-Fund-Open-Call-Guidelines-1.pdf) in 2026.
+
+This workbook is both a **training manual** and a **practical working document** to support the design and improvement of training.
+
+It is intended for practitioners designing and delivering training in complex, resource-constrained, and context-specific environments.
+
+---
+
+### Course Structure
 
 The course consist of the following elements:
 
@@ -65,7 +70,25 @@ The contents of this workbook were designed to be used:
 
 1. as self-study material (in this case, we strongly recommend further reading using the reference materials);
 
-2. as a training manual and workbook complementing the interactive workshops run by facilitators with experience in evidence-based teaching and open science.
+2. as a training manual and workbook complementing the interactive workshops run by facilitators with experience in evidence-based teaching and open science;
+
+3. as a **practical working document**, where you actively design, test, and refine your own training materials.
+
+!!! tip
+    Use the templates and activities throughout the workbook to develop your own materials as you progress.
+
+---
+
+### Expected Learning Outcomes
+
+After working through this book, learners will be able to:
+
+- design training aligned with real-world outcomes and constraints  
+- analyse learners, context, and systems to inform design decisions  
+- create participatory learning experiences that support application  
+- integrate practice, feedback, and evaluation into training  
+- decide when to reuse, adapt, or create materials  
+- prepare and share training materials as reusable Open Educational Resources  
 
 ---
 
@@ -79,7 +102,7 @@ Should you have any suggestions for updating or extending the content, please co
 
 ### Re-using, Remixing, Reproducing
 
-This work is licensed under [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+This work is licensed under [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
 ![Creative Commons with attribution](assets/images/cc-by.png)
 
@@ -93,15 +116,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Under the following terms:**
 
-**Attribution** — You must give[ appropriate credit](https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#ref-indicate-changes). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Attribution** — You must give[ appropriate credit](https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#ref-indicate-changes).
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-**Notices:**
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ---
 
@@ -111,19 +128,11 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-### Expected Learning Outcomes
-
-After working through this book, learners will be able to:
-
-**TODO**
-
----
-
 ### Funding
 
-The training and development of this workbook and associated resources were funded through the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) project. FeME focuses on engineering solutions to climate change and biodiversity loss and their impact on women, children, and underrepresented communities. FeME is a collaboration between the University of Edinburgh, the University of Glasgow, and Heriot-Watt University, funded by the UK Engineering and Physical Sciences Research Council (EPSRC) with £2.2 million through the Tomorrow’s Engineering Research Challenges Network Plus Programme (2025-2028).
+The training and development of this workbook and associated resources were funded through the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) project.
 
---- 
+---
 
 ### Acknowledgements
 
@@ -133,4 +142,4 @@ This workbook and training were inspired by the [Instructor Training material](h
 
 ### AI Usage
 
-Generative AI tools were used extensively to support drafting, restructuring, and refining content throughout this workbook. The author defined the overall structure, pedagogical approach, and conceptual framing, and iteratively guided and edited all AI-generated content. AI outputs were treated as provisional drafts and were critically reviewed, revised, or rejected where necessary. The authors takes full responsibility for the final content, including its accuracy, coherence, and applicability.
+Generative AI tools were used extensively to support drafting, restructuring, and refining content throughout this workbook. The author defined the overall structure, pedagogical approach, and conceptual framing, and iteratively guided and edited all AI-generated content.

@@ -8,6 +8,10 @@
 
 Map your training as part of a real-world system.
 
+## You will use
+- Your current training description
+- Use 1 learner constraint from Template 2 (if available)
+
 ## If you already have a training (recommended)
 
 ### Your current training
@@ -41,12 +45,40 @@ List key elements:
 ### Reality check
 - What assumptions are you making about this system?
 - Where are the biggest risks or uncertainties?
+- Use 1 learner constraint from Template 2 to validate assumptions
 
 ---
 
 ## If you are creating a new training
 
 Map the system you are designing for using the same structure above.
+
+---
+
+## Translation to your learners
+- How does this system reflect your learners’ real context?
+- What factors matter most for them?
+
+---
+
+## Context check
+- What constraints affect this system?
+- What is outside your control?
+
+---
+
+## Iteration
+- v0 = draft
+- v1 = revised
+- v2 = final
+- Update previous templates if needed
+
+---
+
+## Reuse in later sections
+- Template 2 (Learner Reality Mapping)
+- Template 4 (Theory of Change)
+- Template 5 (Learning Outcomes)
 
 ---
 

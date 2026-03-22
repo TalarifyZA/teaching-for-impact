@@ -1,127 +1,74 @@
-# In Conclusion: From Designing Training to Enabling Impact
+# Conclusion
 
-You have reached the end of this workbook — but this is not the end of your work. It is the beginning of a different kind of practice.
+This workbook has guided you through a complete design journey:
 
-Designing training for impact is not about delivering content. It is about enabling change:
-- In how people think
-- In what they are able to do
-- In how they act within their contexts
+- from **understanding training as an intervention in a system**  
+- to **designing learning experiences grounded in learners and context**  
+- to **aligning outcomes, activities, and assessment**  
+- to **building in practice, feedback, and iteration**  
+- to **preparing materials for reuse, adaptation, and sharing as OERs**  
 
-Throughout this workbook, you have moved through a progression:
+These elements are not separate. They are interconnected. Effective training design links:
 
-- From understanding your learners and their realities  
-- To defining meaningful outcomes and designing learning experiences  
-- To creating opportunities for practice, feedback, and iteration  
-- To thinking beyond your own delivery — towards sharing, adapting, and sustaining your work as Open Educational Resources (OERs)
+- **intentional design decisions**  
+- **meaningful learning experiences**  
+- **practical application in real contexts**  
+- **reuse, sharing, and long-term sustainability**  
 
-This progression reflects a shift:
-**from teaching as delivery → to teaching as facilitation → to teaching as ecosystem-building**
+### Key messages to carry forward
 
----
+- **Training is an intervention**  
+  Its impact depends on systems, context, and what learners can actually do afterwards.
 
-## What You Should Carry Forward
+- **Learners and context matter**  
+  Good design starts with understanding realities, not assumptions.
 
-As you continue your work, focus on these core principles:
+- **Learning requires participation**  
+  Practice, feedback, and iteration turn knowledge into capability.
 
-### 1. Start with context, not content
-Effective training begins with a deep understanding of:
-- Who your learners are  
-- What constraints they face  
-- What they are trying to achieve  
+- **Reuse and adaptation are strategic choices**  
+  They save time, improve quality, and extend impact—for both you and others.
 
-Your design decisions should always be grounded in these realities.
+- **Improvement is ongoing**  
+  Training design is not finished after delivery. It evolves through use, feedback, and reflection.
 
----
+### Your role going forward
 
-### 2. Design for use, not coverage
-It is better for learners to:
-- Be able to apply a few key ideas  
-than  
-- Be exposed to many concepts they cannot use  
+You now have the tools to design training that is:
 
-Prioritise:
-- Practice  
-- Relevance  
-- Simplicity  
+- realistic  
+- usable  
+- adaptable  
+- and capable of contributing to meaningful change  
 
----
+What matters next is action.
 
-### 3. Treat design as an iterative process
-Your first version will not be perfect — and it should not be.
+!!! tip
+    Start where you are. You do not need to redesign everything at once.
 
-Strong training emerges through:
-- Testing  
-- Feedback  
-- Reflection  
-- Adaptation  
+You might:
 
-Build iteration into your process from the start.
+- apply one section of this workbook to an existing training  
+- improve a single activity using clearer structure and feedback  
+- revisit your outcomes and alignment  
+- adapt one resource instead of creating from scratch  
+- prepare one set of materials for reuse or sharing  
 
----
+### Next steps
 
-### 4. Make your work reusable — for yourself and others
-Creating OERs is not only about sharing with others.
+- **Apply the workbook in your own context**  
+  Use the templates and guidance to design or refine your training.
 
-It also allows you to:
-- Reuse and adapt your own materials  
-- Reduce future preparation time  
-- Improve consistency and quality over time  
+- **Revisit and improve**  
+  Return to your materials after delivery and refine them based on what you learn.
 
-Think of your materials as evolving assets, not one-off outputs.
+- **Share and contribute**  
+  Where possible, make your work available for others to use, adapt, and build on.
 
----
+- **Stay engaged with communities**  
+  Learning, design, and reuse are strengthened through collaboration.
 
-### 5. Design with others, not just for them
-In many contexts — especially low-resource or community-led settings — effective training is co-created.
+!!! note
+    Designing effective and open training is not a one-time task. It is a continuous process of designing, testing, adapting, and improving.
 
-This means:
-- Involving learners and stakeholders in shaping the training  
-- Adapting content based on lived experience  
-- Valuing local knowledge and practices  
-
----
-
-## A Realistic View of Practice
-
-In reality, you will face trade-offs:
-
-- Limited time vs thoughtful design  
-- Creating new content vs adapting existing resources  
-- Simplicity vs completeness  
-- Ideal approaches vs contextual constraints  
-
-There is no perfect solution.
-
-Your role is to make **intentional, informed decisions** based on:
-- Your goals  
-- Your learners  
-- Your context  
-
----
-
-## Your Next Steps
-
-To move from this workbook into practice, consider:
-
-- What is one training you are currently designing or delivering?
-- What is one change you can make immediately based on what you have learned?
-- What is one aspect you want to test and improve in your next iteration?
-- What part of your material could you make reusable or open?
-
-Start small. Apply deliberately. Learn as you go.
-
----
-
-## Final Thought
-
-Good training does not end when the session ends.
-
-Its value is measured by what happens afterwards:
-- What learners do differently  
-- What changes in their work or communities  
-- What continues to be used, adapted, and shared  
-
-Your role is not just to teach —  
-but to create the conditions for that change to happen.
-
----
+By taking these steps, you move beyond delivering training toward creating learning experiences and resources that are useful, adaptable, and sustainable over time. :contentReference[oaicite:0]{index=0}

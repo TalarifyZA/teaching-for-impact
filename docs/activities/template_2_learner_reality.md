@@ -8,6 +8,10 @@
 
 Understand your learners as they really are, not as you assume.
 
+## You will use
+- Your system map from Template 1
+- Use 1 system constraint or influence from Template 1
+
 ## If you already have a training (recommended)
 
 ### Intended learners vs actual learners
@@ -40,6 +44,7 @@ Understand your learners as they really are, not as you assume.
 ### Barriers
 
 - What prevents participation or success?
+- Use 1 system constraint from Template 1
 
 ## Reflection
 
@@ -50,6 +55,33 @@ What assumptions were incorrect?
 ## If you are creating a new training
 
 Define your learners using the same categories above.
+
+---
+
+## Translation to your learners
+- What assumptions about your learners were incorrect?
+- What must change in your design?
+
+---
+
+## Context check
+- What constraints are most critical?
+- What must you design around?
+
+---
+
+## Iteration
+- v0 = draft
+- v1 = revised
+- v2 = final
+- Update previous templates if needed
+
+---
+
+## Reuse in later sections
+- Template 5 (Learning Outcomes)
+- Template 7 (Learning Activity Design)
+- Template 10 (OER Design Decisions)
 
 ---
 

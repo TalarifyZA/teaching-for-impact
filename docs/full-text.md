@@ -484,7 +484,7 @@ You should now have:
 - Bandura, A. (1977) — *Social Learning Theory*  
   → Supports: social learning through observation and interaction  
   → Why it matters: explains how collaboration and modelling support learning processes  
-  → Source: https://www.worldcat.org/title/social-learning-theory/oclc/3519836
+  → Source: https://psycnet.apa.org/record/1977-25733-000
 
 
 # 4. Defining Impact, Outcomes, and Alignment
@@ -788,8 +788,6 @@ You should now have:
 - mapped the key constraints affecting design choices
 - made initial decisions about participation, trade-offs, and ethical engagement
 
-<!-- File: Module 1 / Section 5: Co-Designing Under Constraints -->
-
 ## Further reading (optional)
 
 - Sanders, E., & Stappers, P. (2008) — *Co-creation and the New Landscapes of Design*  
@@ -805,7 +803,7 @@ You should now have:
 - Chambers, R. (1994) — *Participatory Rural Appraisal (PRA): Challenges, Potentials and Paradigm*  
   → Supports: ethical participation and avoiding extractive practices  
   → Why it matters: offers Global South-informed approaches to inclusive and participatory design  
-  → Source: https://doi.org/10.1080/09614529410001679842
+  → Source: https://doi.org/10.1016/0305-750X(94)90030-2
 
 
 # 6. Designing Learning Experiences for Participation and Co-Creation
@@ -960,8 +958,6 @@ You should now have:
 - a plan for participation and support
 - stronger alignment between your activities, outcomes, and context
 
-<!-- File: Module 1 / Section 6: Designing Learning Experiences for Participation and Co-Creation -->
-
 ## Further reading (optional)
 
 - Prince, M. (2004) — *Does Active Learning Work? A Review of the Research*  
@@ -974,7 +970,7 @@ You should now have:
   → Why it matters: explains how guided support enables learners to progress toward independence  
   → Source: https://www.hup.harvard.edu/books/9780674576292
 
-- Ambrose, S. et al. (2010) — *How Learning Works: Seven Research-Based Principles for Smart Teaching*  
+- Ambrose, S., Bridges, M., DiPietro, M., Lovett, M., & Norman, M. (2010) — *How Learning Works: Seven Research-Based Principles for Smart Teaching*  
   → Supports: structuring activities and supporting effective participation  
   → Why it matters: translates learning science into practical guidance for designing effective activities  
   → Source: https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104
@@ -1298,12 +1294,12 @@ You should now have:
 - Patton, M. Q. (2011) — *Developmental Evaluation: Applying Complexity Concepts to Enhance Innovation and Use*  
   → Supports: evaluation focused on real-world impact and learning  
   → Why it matters: introduces approaches for evaluating complex interventions like training in dynamic contexts  
-  → Source: https://us.sagepub.com/en-us/nam/developmental-evaluation/book232665
+  → Source: https://doi.org/10.4135/9781442208636
 
 - Guskey, T. (2000) — *Evaluating Professional Development*  
   → Supports: distinguishing between different levels of training outcomes and impact  
   → Why it matters: provides a structured approach to evaluating whether training leads to meaningful change  
-  → Source: https://www.corwin.com/books/evaluating-professional-development-6846
+  → Source: https://doi.org/10.4135/9781452231389
 
 # Bridging Section — From Training Design to Open Educational Resources (OER)
 
@@ -1851,10 +1847,11 @@ You should now have:
   → Why it matters: provides Global South evidence on adapting materials to fit local contexts  
   → Source: https://doi.org/10.19173/irrodl.v13i2.1146
 
-- Hilton, J., Wiley, D., Stein, J., & Johnson, A. (2010) — *The Four ‘R’s of Openness and ALMS Analysis*  
+- Hilton, J., Wiley, D., Stein, J., & Johnson, A. (2010) — *The Four ‘R’s of Openness and ALMS Analysis: frameworks for open educational resources*  
   → Supports: remixing and technical/legal considerations in adapting OERs  
   → Why it matters: explains practical constraints and possibilities when combining open resources  
-  → Source: https://opencontent.org/blog/archives/3442
+  → Source: https://doi.org/10.1080/02680510903482132
+
 
 # 4. Sharing and Publishing OERs
 

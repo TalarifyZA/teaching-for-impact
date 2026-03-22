@@ -1,5 +1,6 @@
 # Bridging Section — From Training Design to Open Educational Resources (OER)
 
+
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
 | <ul><li>Explain the shift from one-time training to reusable and adaptable materials</li><li>Decide when to reuse, adapt, or create resources</li><li>Identify key features of reusable training materials</li><li>Recognise hidden assumptions that limit reuse</li></ul> | <ul><li>Can you reuse this training without redesigning it?</li><li>Where can you reuse, adapt, or combine existing resources?</li><li>What assumptions are embedded in your materials?</li><li>What would need to change for a different context?</li></ul> |
@@ -135,3 +136,20 @@ You should now have:
 - identified where your materials can be reused, adapted, or improved
 - clarified at least one hidden assumption
 - started preparing your training materials for reuse beyond a single delivery
+
+## Further reading (optional)
+
+- Wiley, D. (2014) — *The Access Compromise and the 5th R*  
+  → Supports: reuse, adaptation, and practical value of openness in learning materials  
+  → Why it matters: explains how openness enables reuse and adaptation beyond one-time delivery  
+  → Source: https://opencontent.org/blog/archives/3221
+
+- Hilton, J. (2016) — *Open Educational Resources and College Textbook Choices: A Review of Research on Efficacy and Perceptions*  
+  → Supports: benefits of reuse and impact of OER on teaching and learning  
+  → Why it matters: provides evidence that OER improve access and can support effective learning outcomes  
+  → Source: https://doi.org/10.5944/openpraxis.8.1.246
+
+- Hodgkinson-Williams, C., & Trotter, H. (2018) — *A Social Justice Framework for Understanding Open Educational Resources and Practices in the Global South*  
+  → Supports: openness, context, and hidden assumptions affecting reuse  
+  → Why it matters: highlights how context and inequality shape the use and reuse of OER  
+  → Source: https://doi.org/10.19173/irrodl.v19i4.3749

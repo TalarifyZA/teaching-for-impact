@@ -9,12 +9,29 @@
 
 Define what success looks like.
 
-## What success looks like
+## You will use
+- 1 activity from Template 7
+- 1 outcome from Template 5
 
-Define 2–3 indicators:
-- Indicator 1:
-- Indicator 2:
-- Indicator 3:
+## Link to activity
+- Which activity are you evaluating? (from Template 7)
+
+## Define success (for one activity)
+
+- What will learners produce?
+- What does successful performance look like?
+
+## Minimum evaluation (required)
+
+- 1 observable task
+- 1 output artefact
+
+---
+
+## Evidence collection
+
+- What will you observe or collect?
+- When will you collect it?
 
 ---
 
@@ -38,6 +55,29 @@ Define 2–3 indicators:
 - What will you measure?
 - How will you collect data?
 - When will you collect it?
+
+---
+
+## Translation to your learners
+- What evidence is realistic to collect?
+
+---
+
+## Context check
+- What is feasible?
+
+---
+
+## Iteration
+- v0 = draft
+- v1 = revised
+- v2 = final
+- Update previous templates if needed
+
+---
+
+## Reuse in later sections
+- Template 9 (Training Snapshot)
 
 ---
 
