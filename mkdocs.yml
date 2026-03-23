@@ -8,8 +8,6 @@ theme:
   logo: 
   favicon: 
   features:
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.tracking
