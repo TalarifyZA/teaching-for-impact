@@ -146,14 +146,27 @@ Update your system map, theory of change, and assumptions as needed.
 
 ## Example
 
-- **Context:** A team is designing climate data training for community organisers in a low-resource setting.
-- **Decision:** Should they focus on advanced tools or practical low-tech approaches, and how much should participants shape the design?
-- **Action:** They map the system and identify limited internet access, varied technical skills, and strong local knowledge. They decide to co-design parts of the training, use offline tools, and include locally relevant examples. They also shift their role from instructor to facilitator.
-- **Outcome:** Participants are able to apply what they learn immediately, and the training can be adapted for future use in similar contexts.
+A team is designing climate data training for community organisers in a low-resource setting.
+
+- **System map (Step 1):** They identify key actors (local organisers, community leaders, a funding NGO), limited internet access, varied technical skills, and strong local knowledge. Constraints include short funding timelines and no dedicated training venue.
+- **Intended impact (Step 2):** Communities use climate data to inform local planning decisions.
+- **Learning outcomes (Step 3):** Participants can collect, interpret, and present basic climate data using low-tech tools. They can explain findings to community stakeholders.
+- **Theory of Change (Step 4):** Training workshops (activities) produce organisers skilled in data collection (outcomes), who feed locally relevant data into community planning processes (impact).
+- **Assumptions and risks (Step 5):** Assumes organisers have time to collect data after training and that community leaders are willing to act on findings. Risk: funding ends before organisers can embed the practice.
+- **Role reflection (Step 6):** The team shifts from instructor to facilitator, co-designing parts of the curriculum with participants who hold local knowledge the team lacks.
+- **Revisit (Step 7):** After mapping the system, the team realises their original learning outcomes assumed reliable internet. They revise to focus on offline tools and locally relevant examples.
+
+## Our theory of change 
+
+The training you are participating in right now serves a purpose and has it's own theory of change. 
 
 ![Theory of change](../assets/images/lesson-visual-aids/tfi-theory-of-change-v3.svg)
 
 ## In practice
+
+Here are a few exercises that will help you put these ideas into practice in your own work.
+
+### Exercise 1: Create a System Map
 
 👉 Use [Template 1: System Map](../activities/template_1_system_map.md)
 
@@ -162,6 +175,8 @@ Include:
 - **what to do:** Map actors, resources, constraints, relationships, and external influences
 - **expected output:** A simple system map showing how your training fits into a broader context
 - **approximate time:** 20–30 minutes
+
+### Exercise 2: Your theory of change
 
 👉 Use [Template 2: Theory of Change](../activities/template_2_theory_of_change.md)
 
