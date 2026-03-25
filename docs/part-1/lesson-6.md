@@ -23,6 +23,12 @@ Training often breaks down at the activity level:
 
 Effective training is strongly influenced by what learners do, not only by what you present.
 
+Learning is more likely to be effective when activities:
+
+- focus attention on key ideas (managing cognitive load)
+- require learners to recall, use, or apply knowledge (retrieval)
+- connect to realistic tasks and contexts
+
 !!! quote "This section helps you move from..."
     *“What content should I include?”*  
     to:  
@@ -39,40 +45,38 @@ Activities are where learners work toward the intended outcomes and generate evi
 **Co-creation in activities**  
 In this section, co-creation refers specifically to how learners contribute within activities. Co-creation can also happen during design and material development, but here the focus is on how it supports learning during the training itself.
 
-**Activity structure**  
-A well-structured activity includes:
+**What a well-structured activity includes**
 
-- objective
-- instructions
-- materials
-- time
-- output
-- feedback
+A well-designed activity has the following elements:
 
-Clarity reduces confusion and makes participation easier.
+- a connection with a learning outcome. It needs a purpose
+- clear instructions and expectations. The learner needs to know what to do
+- a grouping or mode of participation (individual, pairs, small groups)
+- materials if needed
+- enough time
+- clearly defined deliverables or output (even if the output is a conversation)
+- a feedback mechanism. a way for the learner to course correct
 
 **Active learning**  
 Active learning means learners are discussing, solving, analysing, making, or applying something meaningful.
 
-**Scaffolding, sequencing, and psychological safety**  
-Scaffolding provides support early and reduces it over time. Sequencing places simpler or more guided tasks before more complex ones. Psychological safety matters because learners participate more fully when they know they can contribute, try, and revise without embarrassment or unnecessary risk.
+**Scaffolding and sequencing**
+Scaffolding provides support early and reduces it over time. Sequencing places simpler or more guided tasks before more complex ones.
 
-Learning is more likely to be effective when activities:
-
-- focus attention on key ideas (managing cognitive load)
-- require learners to recall, use, or apply knowledge (retrieval)
-- connect to realistic tasks and contexts
-
+**Psychological safety**
+Learners participate more fully when they know they can contribute, try, and revise without embarrassment or unnecessary risk.
 
 ## Practical guidance
 
 ### Step 1 — Design activities from outcomes
 
-For each outcome, define:
+For each outcome, ask: *"What would a learner need to do in order to demonstrate this outcome?"* Then define:
 
-- what learners will do
-- what they will produce or decide
+- what learners will do (e.g. analyse a dataset, draft a plan, discuss a case)
+- what they will produce or decide (e.g. a written summary, a group recommendation, a completed template)
 - how this supports the outcome
+
+Note that one activity can possibly support multiple outcomes, it doesn't need to be a one-to-one relationship.
 
 ### Step 2 — Structure each activity clearly
 
@@ -80,30 +84,31 @@ Specify:
 
 - objective
 - step-by-step instructions
+- grouping (individual, pairs, small groups)
 - materials
 - time
 - output
 - feedback
 
-Write it so that another facilitator could run the activity.
+Write the instructions so that another facilitator could run the activity without talking to you at all. Think about all the ways a person might get confused and what questions they might ask and try to answer those in your content.
 
 ### Step 3 — Design for participation
 
 Design participation intentionally:
 
-- use pair or small-group work
-- allow think time before discussion
-- offer multiple ways to contribute
-- make expectations visible
+- use pair or small-group work when appropriate (not all the time)
+- allow think time before discussion (e.g. give learners one minute to write notes before a group conversation)
+- offer multiple ways to contribute (e.g. speaking, writing on sticky notes, using a shared document, drawing)
+- make expectations visible (e.g. display the task instructions on a slide or handout so learners can refer back to them)
 
 ### Step 4 — Apply scaffolding and sequencing
 
 Support learners by:
 
-- starting with guided examples
-- increasing complexity gradually
-- reducing support over time
-- sequencing activities so each one prepares for the next
+- starting with a guided example (e.g. work through the first problem together as a group before asking learners to try one on their own)
+- increasing complexity gradually (e.g. begin with a simplified version of the task, then add real-world messiness)
+- reducing support over time — early activities might include worked examples, hints, or checklists; later activities should require more independent work
+- sequencing activities so each one prepares for the next (e.g. a discussion that surfaces key concepts before a hands-on task that applies them)
 
 ### Step 5 — Adapt activities using co-design and constraints
 
@@ -114,22 +119,27 @@ Ensure activities:
 - leave room for participant knowledge and examples
 - support inclusive participation
 
-### Decision point
+### Step 6 — Check alignment
 
-> How structured and participatory will your learning activities be?
+Review your activity and ask:
 
-- Loosely structured and facilitator-led
-- Moderately structured with some participation
-- Highly structured, participant-driven, and interactive
+- does this activity directly support the intended learning outcome?
+- will the output or evidence from this activity show whether learning happened?
+- is there anything in the activity that is interesting but does not serve the outcome?
 
-Your choice will influence clarity, engagement, and learning quality.
+If the activity does not clearly connect to an outcome, revise it or reconsider whether it belongs in the session.
+
 
 ## Example
 
-- **Context:** A team is designing a session to help researchers analyse and interpret climate data.
-- **Decision:** Should they use a lecture-based approach or a structured hands-on activity?
-- **Action:** They design an activity with a clear objective, step-by-step instructions, a real local dataset, small-group work, a defined output, and time for feedback. They begin with a guided example and then move to more independent work.
-- **Outcome:** Participants actively engage, apply the method, and are more able to use it independently after the session.
+A team is designing a session to help researchers analyse and interpret local climate data.
+
+1. **Design activities from outcomes:** The outcome is "analyse a dataset and summarise trends relevant to local decisions." So the team designs a hands-on activity where pairs work through a real dataset and write a short summary of the trends they find.
+2. **Structure each activity clearly:** Data is provided as well as step by step instructions about what is required
+3. **Design for participation:** Each person gets two minutes to scan the dataset individually before working in pairs. Instructions stay visible on a slide. 
+4. **Apply scaffolding and sequencing:** Two datasets are provided: One is smaller and simpler, and step-by-step instructions are given. The second dataset has less support
+5. **Adapt activities using co-design and constraints:** They swap a generic global dataset for local rainfall records that participants already encounter in their fieldwork. They also leave space for researchers to share their own observations about local weather patterns.
+6. **Check alignment:** They review the activity against the outcome.
 
 ## In practice
 
@@ -167,8 +177,11 @@ Add instructions, materials, time, and output.
 **Step 4 — Add support**  
 Include scaffolding and participation strategies.
 
-**Step 5 — Check alignment**  
-Ensure the activity supports the intended outcome.
+**Step 5 — Adapt to your context**
+Adjust the activity to fit your available time, tools, and participants.
+
+**Step 6 — Check alignment**
+Ensure the activity supports the intended outcome and that its output shows whether learning happened.
 
 ## Key takeaways
 
