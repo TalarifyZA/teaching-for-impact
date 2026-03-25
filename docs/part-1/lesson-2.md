@@ -42,6 +42,12 @@ Learners bring prior knowledge, lived experience, habits, assumptions, and local
 
 ## Practical guidance
 
+The steps below help you build a picture of your learners and their context. As you work through them, keep one question in mind:
+
+> How much do you need to adapt your training to fit your learners' realities?
+
+By the end, you should be able to answer whether your training needs minimal adaptation, moderate adaptation, or significant redesign. That answer will shape your content, format, pace, and delivery choices.
+
 ### Step 1 — Identify your audiences
 
 Clarify:
@@ -57,7 +63,7 @@ Gather information about:
 - access to devices, internet, tools, and space
 - time constraints and competing priorities
 - language and communication preferences
-- social and cultural context
+- social and cultural context, including power dynamics
 - what success would look like from the learners’ perspective
 
 ### Step 3 — Conduct a simple needs assessment
@@ -71,7 +77,7 @@ Use:
 
 Focus on:
 
-- what learners already know
+- what learners already know, including lived experience and mental models
 - what they need to do
 - what challenges they face
 - what strengths they already have
@@ -80,9 +86,10 @@ Focus on:
 
 Ask:
 
-- What might prevent participation or success?
-- What can you build on?
-- What existing knowledge or practice can become part of the training?
+- what might prevent participation or success?
+- what strategies could reduce or work around those barriers?
+- what can you build on?
+- what existing knowledge or practice can become part of the training?
 
 ### Step 5 — Design with learners, not only for them
 
@@ -93,24 +100,19 @@ Where possible:
 - validate different forms of knowledge
 - avoid assuming that expert knowledge is the only knowledge that matters
 
-### Decision point
-
-> How much do you need to adapt your training to fit your learners’ realities?
-
-- Minimal adaptation
-- Moderate adaptation
-- Significant redesign
-
-Your answer will shape your content, format, pace, and delivery choices.
-
 ## Example
 
-- **Context:** A team is designing training for early-career researchers who will later train community members on climate data tools.
-- **Decision:** How should the training account for both researchers and community members?
-- **Action:** They conduct a simple needs assessment and learn that researchers are comfortable with technical tools, while community members have limited access and prefer practical examples. They design training that prepares researchers to adapt content, includes low-tech alternatives, and emphasises facilitation skills.
-- **Outcome:** The training becomes more realistic, more transferable, and more useful for both the immediate and secondary audiences.
+A team is designing training for early-career researchers who will later train community members on climate data tools.
+
+1. **Identify your audiences:** The primary audience is the researchers. The secondary audience is the community members they will later train. Researchers carry fieldwork and reporting responsibilities alongside the training.
+2. **Understand learner realities:** Researchers have reliable internet and laptops, but community members have limited connectivity and use shared devices. Community members prefer local languages and practical examples over technical jargon.
+3. **Conduct a simple needs assessment:** Short interviews reveal that researchers are comfortable with technical tools but have little facilitation experience. Community members want tools they can apply to local decision-making, not abstract exercises.
+4. **Identify barriers and opportunities:** Limited connectivity and language differences could prevent community members from engaging. To reduce these barriers, the team plans offline-capable materials and bilingual guides. A key opportunity: community members already collect informal climate observations that can anchor the training content.
+5. **Design with learners, not only for them:** The team involves two community representatives in reviewing draft activities. They replace generic datasets with locally relevant examples and build in time for researchers to practise adapting content for their communities.
 
 ## In practice
+
+Here is an exercise that will help you put these ideas into practice in your own work.
 
 👉 Use [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
 

@@ -40,7 +40,7 @@ Understand your learners as they really are, not as you assume. This will inform
 ### If you already have a training (recommended)
 
 #### Intended learners vs actual learners
-
+<!-- not clear what needs to be done here.  -->
 | Aspect | Intended | Actual |
 |--------|---------|--------|
 | Who they are | | |
