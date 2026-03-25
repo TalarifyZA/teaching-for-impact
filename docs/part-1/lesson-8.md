@@ -1,8 +1,21 @@
+---
+learning_outcomes:
+  - Distinguish between assessment (learning-focused) and evaluation (impact-focused)
+  - Design formative and summative assessments aligned with learning outcomes
+  - Define clear, observable indicators of success
+  - Select appropriate and feasible methods for collecting evidence of learning and impact
+  - Evaluate evidence to distinguish meaningful signal from noise
+guiding_questions:
+  - How will you know if learning has occurred?
+  - What is the difference between assessing learning and evaluating impact in this context?
+  - Are your assessments aligned with your intended outcomes?
+  - What indicators best reflect meaningful success?
+  - What evidence will you collect, and how will it help you improve your training?
+---
+
 # 8. Assessment and Evaluation for Learning and Impact
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Distinguish between assessment (learning-focused) and evaluation (impact-focused)</li><li>Design formative and summative assessments aligned with learning outcomes</li><li>Define clear, observable indicators of success</li><li>Select appropriate and feasible methods for collecting evidence of learning and impact</li><li>Evaluate evidence to distinguish meaningful signal from noise</li></ul> | <ul><li>How will you know if learning has occurred?</li><li>What is the difference between assessing learning and evaluating impact in this context?</li><li>Are your assessments aligned with your intended outcomes?</li><li>What indicators best reflect meaningful success?</li><li>What evidence will you collect, and how will it help you improve your training?</li></ul>|
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

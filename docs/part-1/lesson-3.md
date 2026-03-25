@@ -1,8 +1,21 @@
+---
+learning_outcomes:
+  - Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)
+  - Identify factors that support or hinder effective learning
+  - Apply strategies to reduce cognitive overload and improve retention
+  - Design learning experiences that include retrieval, practice, and reinforcement
+  - Incorporate social and contextual dimensions of learning into training design
+guiding_questions:
+  - How do people move information from short-term to long-term memory?
+  - Where might cognitive overload occur in your training?
+  - How will learners actively retrieve and apply knowledge?
+  - How can learning be reinforced over time?
+  - How will you incorporate social learning and collaboration?
+---
+
 # 3. How People Learn: Cognitive, Social, and Contextual Perspectives
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)</li><li>Identify factors that support or hinder effective learning</li><li>Apply strategies to reduce cognitive overload and improve retention</li><li>Design learning experiences that include retrieval, practice, and reinforcement</li><li>Incorporate social and contextual dimensions of learning into training design</li></ul> | <ul><li>How do people move information from short-term to long-term memory?</li><li>Where might cognitive overload occur in your training?</li><li>How will learners actively retrieve and apply knowledge?</li><li>How can learning be reinforced over time?</li><li>How will you incorporate social learning and collaboration?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

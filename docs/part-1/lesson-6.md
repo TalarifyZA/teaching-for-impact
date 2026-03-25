@@ -1,8 +1,23 @@
+---
+learning_outcomes:
+  - Design activities where learners actively work toward the intended outcomes
+  - Structure activities with clear instructions, materials, timing, and outputs
+  - Design for inclusive participation so all learners are actively involved
+  - Enable co-creation by drawing on learners’ knowledge, experience, and context
+  - Support learners through challenging parts of an activity using appropriate scaffolding
+  - Adapt activities to fit your specific context (time, resources, group)
+guiding_questions:
+  - What will learners actually do in this activity?
+  - What do I need to prepare or provide so they can do it?
+  - How will I make sure everyone participates, not just a few people?
+  - How can learners contribute their own knowledge, experience, or ideas (co-creation)?
+  - Where might learners get stuck, and how will I support them?
+  - Will this work in my context (time, resources, group)?
+---
+
 # 6. Designing Learning Experiences for Participation and Co-Creation
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Design activities where learners actively work toward the intended outcomes</li><li>Structure activities with clear instructions, materials, timing, and outputs</li><li>Design for inclusive participation so all learners are actively involved</li><li>Enable co-creation by drawing on learners’ knowledge, experience, and context</li><li>Support learners through challenging parts of an activity using appropriate scaffolding</li><li>Adapt activities to fit your specific context (time, resources, group)</li></ul> | <ul><li>What will learners actually do in this activity?</li> <li>What do I need to prepare or provide so they can do it?</li> <li>How will I make sure everyone participates, not just a few people?</li>  <li>How can learners contribute their own knowledge, experience, or ideas (co-creation)?</li>  <li>Where might learners get stuck, and how will I support them?</li> <li>Will this work in my context (time, resources, group)?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

@@ -1,8 +1,21 @@
+---
+learning_outcomes:
+  - Use co-design principles to make more relevant and context-aware design decisions
+  - Identify key constraints that shape what is possible in your training
+  - Make informed trade-offs based on context, priorities, and available resources
+  - Create opportunities for meaningful participant contribution in your design
+  - Avoid extractive or tokenistic participation practices
+guiding_questions:
+  - Who is currently shaping your training, and who should be involved?
+  - What constraints most strongly affect your design decisions?
+  - What trade-offs are you making, and why?
+  - How can participants meaningfully influence the training design?
+  - How will you make sure participants have real influence, not just provide input?
+---
+
 # 5. Co-design and Constraints
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Use co-design principles to make more relevant and context-aware design decisions</li><li>Identify key constraints that shape what is possible in your training</li><li>Make informed trade-offs based on context, priorities, and available resources</li><li>Create opportunities for meaningful participant contribution in your design</li><li>Avoid extractive or tokenistic participation practices</li></ul> | <ul><li>Who is currently shaping your training, and who should be involved?</li><li>What constraints most strongly affect your design decisions?</li><li>What trade-offs are you making, and why?</li><li>How can participants meaningfully influence the training design?</li><li>How will you make sure participants have real influence, not just provide input?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

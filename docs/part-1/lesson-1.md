@@ -1,8 +1,21 @@
+---
+learning_outcomes:
+  - Describe training as an intervention within a broader system
+  - Identify key elements of the system your training operates in (actors, resources, constraints, influences)
+  - Articulate a simple theory of change linking activities to outcomes and impact
+  - Analyse how context, power, and positionality influence training design and outcomes
+  - Identify key assumptions and risks that may affect the success of your training
+guiding_questions:
+  - What system does your training sit within, and who are the key actors?
+  - What change are you trying to contribute to, and how will training support that?
+  - What assumptions are you making about how change will happen?
+  - What factors outside your control could affect success?
+  - How do your role and positionality influence the design and delivery of this training?
+---
+
 # 1. Getting Started: Training as Intervention and System
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Describe training as an intervention within a broader system</li><li>Identify key elements of the system your training operates in (actors, resources, constraints, influences)</li><li>Articulate a simple theory of change linking activities to outcomes and impact</li><li>Analyse how context, power, and positionality influence training design and outcomes</li><li>Identify key assumptions and risks that may affect the success of your training</li></ul> | <ul><li>What system does your training sit within, and who are the key actors?</li><li>What change are you trying to contribute to, and how will training support that?</li><li>What assumptions are you making about how change will happen?</li><li>What factors outside your control could affect success?</li><li>How do your role and positionality influence the design and delivery of this training?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

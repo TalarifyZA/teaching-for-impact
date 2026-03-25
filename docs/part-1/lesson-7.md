@@ -1,8 +1,22 @@
+---
+learning_outcomes:
+  - Design meaningful, outcome-aligned opportunities for practice
+  - Plan feedback processes that include appropriate sources, timing, and format
+  - Design feedback so that it is specific, timely, and actionable
+  - Build iteration and revision cycles into learning activities
+  - Facilitate peer learning and co-learning in inclusive community contexts
+guiding_questions:
+  - Where will learners practise the key knowledge or skills?
+  - How will practice connect directly to the intended outcomes?
+  - What feedback will learners receive, from whom, and at what points?
+  - How will feedback help learners improve while revision is still possible?
+  - Where are revision and iteration built into the learning process?
+  - How will participants learn with and from each other in this context?
+---
+
 # 7. Practice, Feedback, and Iteration in Community Contexts
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Design meaningful, outcome-aligned opportunities for practice</li><li>Plan feedback processes that include appropriate sources, timing, and format</li><li>Design feedback so that it is specific, timely, and actionable</li><li>Build iteration and revision cycles into learning activities</li><li>Facilitate peer learning and co-learning in inclusive community contexts</li></ul> | <ul><li>Where will learners practise the key knowledge or skills?</li><li>How will practice connect directly to the intended outcomes?</li><li>What feedback will learners receive, from whom, and at what points?</li><li>How will feedback help learners improve while revision is still possible?</li><li>Where are revision and iteration built into the learning process?</li><li>How will participants learn with and from each other in this context?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
