@@ -31,10 +31,10 @@ This is an MkDocs site built with [Material for MkDocs](https://squidfunk.github
 ### Run locally
 
 ```bash
-uv run mkdocs serve
+uv run mkdocs serve --livereload
 ```
 
-Then open http://127.0.0.1:8000 in your browser.
+Then open http://127.0.0.1:8000/teaching-for-impact/ in your browser.
 
 ### Build
 

@@ -37,51 +37,88 @@ Training may introduce new knowledge, build skills, create opportunities for pra
 **Systems thinking (practical)**  
 A system includes people, resources, relationships, constraints, and external influences. Your training sits within a broader system of people, conditions, and constraints. It does not control it.
 
+![training as intervention and system](../assets/images/lesson-visual-aids/tfi-systems-intervention_v2.svg)
+
+
 **Theory of Change**  
 A Theory of Change is a simple explanation of how your training is expected to lead to outcomes and impact:
 
-- Inputs → Activities → Outputs → Outcomes → Impact
+<!-- TODO: maybe a picture -->
+
+Inputs → Activities → Outputs → Outcomes → Impact
+
+- **Inputs** — The resources you invest (funding, staff time, materials, expertise) 
+- **Activities** — What you do with those resources (workshops, mentoring,          
+curriculum development)                                                         
+- **Outputs** — The direct, countable products of your activities (number of people 
+trained, materials produced)                                                    
+- **Outcomes** — The changes that result from your outputs (improved skills, changed
+  behaviours, new knowledge applied)                                             
+- **Impact** — The long-term, broader change you ultimately want to see (systemic
+improvement, societal benefit)     
 
 It helps you make assumptions visible and identify where things may break down.
 
 This model focuses on the *system-level logic* of change: how your training contributes to broader outcomes and impact.
 
-In later sections, you will apply this same logic at the level of training design using a practical approach called backward design.
+In later sections, you will apply this same logic at the level of training design using a practical approach called *backward design*.
 
 **Positionality, roles, and power**  
+
 Training is not neutral. Your role, background, authority, and assumptions shape what is prioritised, whose knowledge is valued, and how participants engage. You may be acting as a facilitator, co-learner, co-designer, or connector. Each role creates different possibilities.
 
-![training as intervention and system](../assets/images/lesson-visual-aids/tfi-systems-intervention_v2.svg)
-
 ## Practical guidance
+
+The ideas above have been largely conceptual. The steps below help you apply them as you design your own training interventions.
+
+### Before you begin: What level of change is realistic?
+
+> What level of change is realistic in your context?
+
+Consider where your training sits on this spectrum:
+
+- Individual skills only
+- Changes in practice
+- Institutional or community impact
+
+Hold this question in mind as you work through the steps below. Your answer will shape the scope of your system map, the ambition of your theory of change, and the assumptions you need to test.
+
+It might be difficult to fully answer this question right now. As you move through the steps below the picture will become more clear.
 
 ### Step 1 — Map your system
 
 Identify:
 
-- who is involved
-- what resources exist or are missing
-- what constraints matter most
-- what external factors influence success
+- Who is involved
+- What resources exist or are missing
+- What constraints matter most
+- What external factors influence success
 
-### Step 2 — Define intended change
+### Step 2 — Define intended impact
 
-Be specific:
+Describe the broader, system-level change you want the training to contribute to:
 
-- What should participants do differently?
-- What change do you hope the training contributes to?
+- What problem or gap does the training address?
+- What change do you hope to see in the wider system?
 
-### Step 3 — Build a simple Theory of Change
+### Step 3 — Define learning outcomes
 
-Link:
+Specify what participants should be able to do after the training. These are participant-level changes, distinct from the system-level impact defined above:
 
-- what you do
-- what participants gain
-- what changes afterwards
+- What new knowledge, skills, or behaviours should they gain?
+- How will you know if they have achieved these outcomes?
 
-Keep it realistic.
+### Step 4 — Build a simple Theory of Change
 
-### Step 4 — Identify assumptions and risks
+Using the Inputs → Activities → Outputs → Outcomes → Impact chain introduced earlier, link:
+
+- what you do (inputs and activities)
+- what participants gain (outputs and outcomes)
+- what changes in the wider system afterwards (impact)
+
+Make sure your outcomes connect back to the intended impact you defined in Step 2. Only include links you have evidence or strong reason to believe will hold.
+
+### Step 5 — Identify assumptions and risks
 
 Ask:
 
@@ -89,7 +126,7 @@ Ask:
 - What is outside your control?
 - What could prevent learners from applying what they learn?
 
-### Step 5 — Reflect on your role
+### Step 6 — Reflect on your role
 
 Decide:
 
@@ -97,15 +134,15 @@ Decide:
 - How much influence will participants have?
 - What power dynamics matter here?
 
-### Decision point
+### Step 7 — Revisit and refine
 
-> What level of change is realistic in your context?
+Design is rarely a linear process. Now that you have worked through each step, go back to the beginning:
 
-- Individual skills only
-- Changes in practice
-- Institutional or community impact
+- Has your understanding of the system changed?
+- Do your learning outcomes still align with your intended impact?
+- Have new constraints or assumptions emerged?
 
-Your answer shapes how you design the training.
+Update your system map, theory of change, and assumptions as needed.
 
 ## Example
 
