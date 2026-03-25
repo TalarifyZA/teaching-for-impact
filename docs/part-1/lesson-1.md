@@ -77,9 +77,9 @@ The ideas above have been largely conceptual. The steps below help you apply the
 
 Consider where your training sits on this spectrum:
 
-- Individual skills only
-- Changes in practice
-- Institutional or community impact
+- individual skills only
+- changes in practice
+- institutional or community impact
 
 Hold this question in mind as you work through the steps below. Your answer will shape the scope of your system map, the ambition of your theory of change, and the assumptions you need to test.
 
@@ -89,10 +89,10 @@ It might be difficult to fully answer this question right now. As you move throu
 
 Identify:
 
-- Who is involved
-- What resources exist or are missing
-- What constraints matter most
-- What external factors influence success
+- who is involved
+- what resources exist or are missing
+- what constraints matter most
+- what external factors influence success
 
 ### Step 2 — Define intended impact
 
@@ -105,16 +105,16 @@ Describe the broader, system-level change you want the training to contribute to
 
 Specify what participants should be able to do after the training. These are participant-level changes, distinct from the system-level impact defined above:
 
-- What new knowledge, skills, or behaviours should they gain?
-- How will you know if they have achieved these outcomes?
+- what new knowledge, skills, or behaviours should they gain?
+- how will you know if they have achieved these outcomes?
 
 ### Step 4 — Build a simple Theory of Change
 
 Using the Inputs → Activities → Outputs → Outcomes → Impact chain introduced earlier, link:
 
-- What you do (inputs and activities)
-- What participants gain (outputs and outcomes)
-- What changes in the wider system afterwards (impact)
+- what you do (inputs and activities)
+- what participants gain (outputs and outcomes)
+- what changes in the wider system afterwards (impact)
 
 Make sure your outcomes connect back to the intended impact you defined in Step 2. Only include links you have evidence or strong reason to believe will hold.
 
@@ -122,25 +122,25 @@ Make sure your outcomes connect back to the intended impact you defined in Step 
 
 Ask:
 
-- What must be true for this training to work?
-- What is outside your control?
-- What could prevent learners from applying what they learn?
+- what must be true for this training to work?
+- what is outside your control?
+- what could prevent learners from applying what they learn?
 
 ### Step 6 — Reflect on your role
 
 Decide:
 
-- Are you delivering, facilitating, or co-creating?
-- How much influence will participants have?
-- What power dynamics matter here?
+- are you delivering, facilitating, or co-creating?
+- how much influence will participants have?
+- what power dynamics matter here?
 
 ### Step 7 — Revisit and refine
 
 Design is rarely a linear process. Now that you have worked through each step, go back to the beginning:
 
-- Has your understanding of the system changed?
-- Do your learning outcomes still align with your intended impact?
-- Have new constraints or assumptions emerged?
+- has your understanding of the system changed?
+- do your learning outcomes still align with your intended impact?
+- have new constraints or assumptions emerged?
 
 Update your system map, theory of change, and assumptions as needed.
 
@@ -172,9 +172,9 @@ Here are a few exercises that will help you put these ideas into practice in you
 
 Include:
 
-- **What to do:** Map actors, resources, constraints, relationships, and external influences
-- **Expected output:** A simple system map showing how your training fits into a broader context
-- **Approximate time:** 20–30 minutes
+- **what to do:** Map actors, resources, constraints, relationships, and external influences
+- **expected output:** A simple system map showing how your training fits into a broader context
+- **approximate time:** 20–30 minutes
 
 ### Exercise 2: Your theory of change
 
@@ -182,9 +182,9 @@ Include:
 
 Include:
 
-- **What to do:** Link inputs, activities, outputs, outcomes, and impact
-- **Expected output:** A one-page Theory of Change for your training
-- **Approximate time:** 20–30 minutes
+- **what to do:** Link inputs, activities, outputs, outcomes, and impact
+- **expected output:** A one-page Theory of Change for your training
+- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 
