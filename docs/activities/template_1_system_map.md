@@ -9,13 +9,13 @@
 
 ---
 
-#### Used in
+## Used in
 
 - Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)
 
 ---
 
-### Before you start
+## Before you start
 
 You will typically need:
 
@@ -26,11 +26,11 @@ You will typically need:
 ---
 
 
-### Version
+## Version
 - v0 (current understanding) / v1 / v2
-
+<!-- Not clear what this is for -->
 ---
-### Instructions
+## Instructions
 
 Map your training as part of a real-world system. This will inform your later training design decisions.
 
@@ -81,19 +81,19 @@ Map the system you are designing for using the same structure above.
 
 ---
 
-### Translation to your learners
+## Translation to your learners
 - How does this system reflect your learners’ real context?
 - What factors matter most for them?
 
 ---
 
-### Context check
+## Context check
 - What constraints affect this system?
 - What is outside your control?
 
 ---
 
-### Iteration
+## Iteration
 - v0 = draft
 - v1 = revised
 - v2 = final
@@ -101,9 +101,9 @@ Map the system you are designing for using the same structure above.
 
 ---
 
-### Reuse in later sections
+## Reuse in later sections
 [TODO]
 ---
 
-### Reflection
+## Reflection
 - What did you discover about where your training sits in a broader system?
