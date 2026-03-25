@@ -12,7 +12,7 @@ from md2docx.core import MD2DOCX
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DOWNLOAD_SOURCES = PROJECT_ROOT / "download_sources"
+DOWNLOAD_SOURCES = PROJECT_ROOT / "docs" / "activities"
 OUTPUT_DIR = PROJECT_ROOT / "docs" / "downloads"
 
 
@@ -47,15 +47,14 @@ def convert_file(source: Path, output: Path) -> None:
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sources = sorted(DOWNLOAD_SOURCES.glob("*_download.md"))
+    sources = sorted(DOWNLOAD_SOURCES.glob("template_*.md"))
     if not sources:
-        print("No download source files found.")
+        print("No activity template files found.")
         return
 
     print(f"Converting {len(sources)} file(s):")
     for source in sources:
-        # template_1_system_map_download.md -> template_1_system_map.docx
-        stem = source.stem.replace("_download", "")
+        stem = source.stem
         output = OUTPUT_DIR / f"{stem}.docx"
         convert_file(source, output)
 

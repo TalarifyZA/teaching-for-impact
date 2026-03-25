@@ -17,8 +17,9 @@
 > - Outputs from earlier templates (if applicable)
 > - Notes from your current lesson
 
+{% set docx_name = page.file.src_path.split('/')[-1].replace('.md', '.docx') %}
 <div class="download-btn-wrapper" markdown="0">
-<button class="md-button download-doc-btn" onclick="downloadPageAsDoc()">
-⬇ Download as .doc
-</button>
+<a class="md-button download-doc-btn" href="../../downloads/{{ docx_name }}" download>
+⬇ Download as .docx
+</a>
 </div>
