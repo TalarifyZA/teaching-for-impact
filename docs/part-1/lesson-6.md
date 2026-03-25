@@ -55,7 +55,7 @@ A well-designed activity has the following elements:
 - materials if needed
 - enough time
 - clearly defined deliverables or output (even if the output is a conversation)
-- a feedback mechanism. a way for the learner to course correct
+- a feedback mechanism - a way for the learner to course correct
 
 **Active learning**  
 Active learning means learners are discussing, solving, analysing, making, or applying something meaningful.
@@ -80,19 +80,29 @@ Note that one activity can possibly support multiple outcomes, it doesn't need t
 
 ### Step 2 — Structure each activity clearly
 
-Specify:
+For each activity, specify:
 
-- objective
-- step-by-step instructions
-- grouping (individual, pairs, small groups)
-- materials
-- time
-- output
-- feedback
+- the objective — what learners should be able to do by the end of this activity
+- step-by-step instructions — what learners will do, in what order
+- materials — what you need to prepare or provide (datasets, templates, handouts, tools)
+- time — how long each part of the activity takes
+- expected output — what learners will produce or decide (e.g. a written summary, a completed template, a group recommendation)
 
 Write the instructions so that another facilitator could run the activity without talking to you at all. Think about all the ways a person might get confused and what questions they might ask and try to answer those in your content.
 
-### Step 3 — Design for participation
+### Step 3 — Plan how learners will get feedback
+
+Feedback is how learners know whether they are on track. Without it, they may practise incorrectly or miss key ideas without realising.
+
+For each activity, decide:
+
+- what kind of feedback learners will receive (e.g. peer review, facilitator input, self-check against a rubric or model answer)
+- when feedback happens — during the activity, immediately after, or in a follow-up step
+- who provides it — the facilitator, other learners, or the learner themselves
+
+Feedback does not have to be formal or complex. Even a brief pause where pairs compare their answers to a model example counts. The point is that learners have a way to check their understanding and correct course before moving on.
+
+### Step 4 — Design for participation
 
 Design participation intentionally:
 
@@ -101,7 +111,7 @@ Design participation intentionally:
 - offer multiple ways to contribute (e.g. speaking, writing on sticky notes, using a shared document, drawing)
 - make expectations visible (e.g. display the task instructions on a slide or handout so learners can refer back to them)
 
-### Step 4 — Apply scaffolding and sequencing
+### Step 5 — Apply scaffolding and sequencing
 
 Support learners by:
 
@@ -110,7 +120,7 @@ Support learners by:
 - reducing support over time — early activities might include worked examples, hints, or checklists; later activities should require more independent work
 - sequencing activities so each one prepares for the next (e.g. a discussion that surfaces key concepts before a hands-on task that applies them)
 
-### Step 5 — Adapt activities using co-design and constraints
+### Step 6 — Adapt activities using co-design and constraints
 
 Ensure activities:
 
@@ -119,7 +129,7 @@ Ensure activities:
 - leave room for participant knowledge and examples
 - support inclusive participation
 
-### Step 6 — Check alignment
+### Step 7 — Check alignment
 
 Review your activity and ask:
 
@@ -129,17 +139,17 @@ Review your activity and ask:
 
 If the activity does not clearly connect to an outcome, revise it or reconsider whether it belongs in the session.
 
-
 ## Example
 
 A team is designing a session to help researchers analyse and interpret local climate data.
 
 1. **Design activities from outcomes:** The outcome is "analyse a dataset and summarise trends relevant to local decisions." So the team designs a hands-on activity where pairs work through a real dataset and write a short summary of the trends they find.
-2. **Structure each activity clearly:** Data is provided as well as step by step instructions about what is required
-3. **Design for participation:** Each person gets two minutes to scan the dataset individually before working in pairs. Instructions stay visible on a slide. 
-4. **Apply scaffolding and sequencing:** Two datasets are provided: One is smaller and simpler, and step-by-step instructions are given. The second dataset has less support
-5. **Adapt activities using co-design and constraints:** They swap a generic global dataset for local rainfall records that participants already encounter in their fieldwork. They also leave space for researchers to share their own observations about local weather patterns.
-6. **Check alignment:** They review the activity against the outcome.
+2. **Structure each activity clearly:** The team prepares the dataset, writes step-by-step instructions, sets a 20-minute time limit, and specifies that each pair must produce a short written summary of trends.
+3. **Plan how learners will get feedback:** After pairs write their summaries, the facilitator displays a model summary on a slide. Pairs compare their own summary to the model and note what they missed or interpreted differently. The facilitator then leads a brief group discussion to address common gaps.
+4. **Design for participation:** Each person gets two minutes to scan the dataset individually before working in pairs. Instructions stay visible on a slide.
+5. **Apply scaffolding and sequencing:** Two datasets are provided: one is smaller and simpler, with step-by-step instructions. The second dataset has less support.
+6. **Adapt activities using co-design and constraints:** They swap a generic global dataset for local rainfall records that participants already encounter in their fieldwork. They also leave space for researchers to share their own observations about local weather patterns.
+7. **Check alignment:** They review the activity against the outcome.
 
 ## In practice
 
@@ -165,22 +175,25 @@ Include:
 
 ### Suggested process
 
-**Step 1 — Start from outcomes**  
+**Step 1 — Start from outcomes**
 Select one learning outcome.
 
-**Step 2 — Define the activity**  
+**Step 2 — Define the activity**
 Decide what learners will do and produce.
 
-**Step 3 — Structure clearly**  
+**Step 3 — Structure clearly**
 Add instructions, materials, time, and output.
 
-**Step 4 — Add support**  
+**Step 4 — Plan feedback**
+Decide how learners will know whether they are on track — what feedback they get, when, and from whom.
+
+**Step 5 — Add support**
 Include scaffolding and participation strategies.
 
-**Step 5 — Adapt to your context**
+**Step 6 — Adapt to your context**
 Adjust the activity to fit your available time, tools, and participants.
 
-**Step 6 — Check alignment**
+**Step 7 — Check alignment**
 Ensure the activity supports the intended outcome and that its output shows whether learning happened.
 
 ## Key takeaways

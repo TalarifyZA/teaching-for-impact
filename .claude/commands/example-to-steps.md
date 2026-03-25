@@ -8,6 +8,7 @@ Guidelines:
 2. **Be concrete** — Replace vague phrases like "they design an activity" with specifics that show *what* they actually decided or produced at each step. Use realistic details (names of topics, tools, group sizes, time estimates) so the reader can picture it.
 3. **Match the vocabulary** — Use the same key terms from the steps (e.g. if a step says "scaffolding", the example should use that word too, not a synonym). This helps the reader connect the guidance to the example.
 4. **Keep it brief** — Each numbered item should be 1–3 sentences. The whole example is a short illustrative scenario, not a full case study.
-5. **Audience check** — The example should feel relevant to researchers, academics, or practitioners designing real-world skills training. Avoid examples that assume formal academic settings unless the lesson specifically calls for it.
+5. **Keep it feasible** — The example should describe something a real person would actually do, not an over-designed ideal. Avoid examples that require large teams, expensive tools, elaborate multi-phase plans, or unrealistic amounts of preparation. If the example sounds like a lot of effort, simplify it. The reader should finish thinking "I could do that" not "that's too much work".
+6. **Audience check** — The example should feel relevant to researchers, academics, or practitioners designing real-world skills training. Avoid examples that assume formal academic settings unless the lesson specifically calls for it.
 
 After reviewing, list what you changed and why, then apply the improvements directly to the file.
