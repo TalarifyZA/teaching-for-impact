@@ -1,6 +1,6 @@
 # Presentations
 
-Slide decks summarising each part of the workbook. Use these for facilitated sessions or self-paced review.
+Slide decks for live sessions. Use these for facilitated sessions. These are designed to be run in 4 hour sessions. They cover the major parts of each part in an interactive way, they are not an exhaustive reference.
 
 ## Available presentations
 
