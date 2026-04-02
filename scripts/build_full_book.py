@@ -46,15 +46,15 @@ def load_nav() -> list:
 
 
 def flatten_nav(nav, section_title=None):
-    """Flatten the nested nav structure into (section_title, page_path) pairs."""
+    """Flatten the nested nav structure into (section_title, page_title, page_path) tuples."""
     pages = []
     for item in nav:
         if isinstance(item, str):
-            pages.append((section_title, item))
+            pages.append((section_title, None, item))
         elif isinstance(item, dict):
             for key, value in item.items():
                 if isinstance(value, str):
-                    pages.append((section_title, value))
+                    pages.append((section_title, key, value))
                 elif isinstance(value, list):
                     pages.extend(flatten_nav(value, section_title=key))
     return pages
@@ -166,7 +166,7 @@ def main() -> None:
     sections = []
     current_section = None
 
-    for section_title, page_path in pages:
+    for section_title, page_title, page_path in pages:
         if page_path in SKIP_PAGES or page_path in SECTION_INDEX_PAGES:
             continue
 
@@ -179,6 +179,9 @@ def main() -> None:
 
         content = process_page(page_path)
         if content:
+            # Prepend page title as a heading if available
+            if page_title:
+                content = f"## {page_title}\n\n{content}"
             sections.append(content)
 
     full_markdown = "\n\n---\n\n".join(sections)
