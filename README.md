@@ -20,6 +20,10 @@ Sheena O'Connell
 
 [Prelude](https://prelude.tech/) is a South African consulting and training organisation specialising in professional skills development in Python, Teamwork and Education. Prelude also builds edTech products.
 
+## Citation
+
+Anelda van der Walt, & O'Connell, S. (2026, November 6). Teaching for Impact: Designing Effective & Open Training - First public release. Zenodo. [https://doi.org/10.5281/zenodo.24013698](https://doi.org/10.5281/zenodo.24013698)
+
 ## Development setup
 
 This is an MkDocs site built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
