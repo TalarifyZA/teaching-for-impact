@@ -124,17 +124,24 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 If you use or adapt this workbook, please cite it as:
 
-> Van der Walt, A. & O'Connell, S. (2026). *Teaching for Impact: Designing Effective & Open Training*. Talarify & Prelude.tech Available at [https://talarifyza.github.io/teaching-for-impact/](https://talarifyza.github.io/teaching-for-impact/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+>  Anelda van der Walt, & O'Connell, S. (2026, November 6). Teaching for Impact: Designing Effective & Open Training - First public release. Zenodo. [https://doi.org/10.5281/zenodo.24013698](https://doi.org/10.5281/zenodo.24013698)
+> Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **BibTeX:**
 
 ```bibtex
-@misc{vanderwaltoconnell2026teachingforimpact,
-  title     = {Teaching for Impact: Designing Effective & Open Training},
-  author    = {Van der Walt, Anelda and O'Connell, Sheena},
-  year      = {2026},
-  url       = {https://talarifyza.github.io/teaching-for-impact/},
-  note      = {Licensed under CC BY 4.0}
+@misc{anelda_van_der_walt_2026_24013698,
+  author       = {Anelda van der Walt and
+                  O'Connell, Sheena},
+  title        = {Teaching for Impact: Designing Effective \& Open
+                   Training - First public release
+                  },
+  month        = nov,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.24013698},
+  url          = {https://doi.org/10.5281/zenodo.24013698},
 }
 ```
 
